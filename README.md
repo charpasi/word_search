@@ -77,6 +77,7 @@ The program will output the coordinates of the end of each word found in the gri
 ## Testing
 
 You can run predefined test cases by specifying the test case name as the third command-line argument.
+The tests with check for if the actual number of found coordinates matches the expected, as well as if the coordinates themselves are accurate. 
 
 ## Dependencies
 
