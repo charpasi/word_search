@@ -34,9 +34,9 @@ To run the program, execute the compiled binary and provide the required command
 ./word_search <grid_file> <word_list_file> [test_case]
 ```
 
-- `<grid_file>`: Path to the text file containing the word search grid.
-- `<word_list_file>`: Path to the text file containing the list of words to search for.
-- `[test_case]` (optional): Specify a test case to run. Available test cases are `testAbc`, `testAnimal`, and `testAfrica`. If specified, the program will compare the coordinates of found words against the expected coordinates for the chosen test case.
+- `<grid_file>`: Path to the text file containing the word search grid. [Provided files are abcgrid.txt for a simple 3x3 word search to test on, animalgrid.txt for a word search of A-Z animals and africagrid.txt for a word search of African capitals]
+- `<word_list_file>`: Path to the text file containing the list of words to search for. [Provided files are abcwords.txt, animalwords.txt, and africawords.txt]
+- `[test_case]` (optional): Specify a test case to run. Currently the available test cases are `testAbc`, `testAnimal`, and `testAfrica`. If specified, the program will compare the coordinates of found words against the expected coordinates for the chosen test case.
 
 ### Word List Format
 
