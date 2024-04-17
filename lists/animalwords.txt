@@ -1,0 +1,26 @@
+Antlope
+Bear
+Cat
+Dog
+Elephant
+Frog
+Giraffe
+Horse
+Iguana
+Jaguar
+Kangaroo
+Lemur
+Monkey
+Newt
+Octopus
+Panda
+Quail
+Raccoon
+Sheep
+Turtle
+Unicorn
+Vulture
+Walrus
+Xiphius gladius
+Yak
+Zebra
