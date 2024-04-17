@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program is designed to solve word search puzzles. It reads a word search grid and a list of words to find within that grid from text files, performs the search, and outputs the coordinates of the end of each word found.
+This program is designed to solve word search puzzles. It reads a word search grid and a list of words to find within that grid from text files, performs the search, and outputs the coordinates of the first letter of each word found.
 
 ## Features
 
