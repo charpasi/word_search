@@ -1,4 +1,4 @@
-### Word Search Solver
+#### Word Search Solver
 
 ## Overview
 
